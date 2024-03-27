@@ -112,12 +112,12 @@ int main() {
 }
 ```
 
-##OUTPUT
+## OUTPUT
 
 ![312685730-42dda2d9-9f8a-47d2-b9c5-13dd09b97dd3](https://github.com/sujigunasekar/Linux-Process-API-fork-wait-exec/assets/119559822/ec404c9c-361c-469a-916a-233aec6896a5)
 
 
 
 
-# RESULT:
+## RESULT:
 Thus the programs are executed successfully.
